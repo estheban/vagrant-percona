@@ -1,0 +1,16 @@
+project/node_modules
+project/vendors
+project/web/bundles
+project/app/bootstrap.php.cache
+project/app/cache/*
+project/app/config/parameters.yml
+project/app/logs/*
+!.gitkeep
+/project/vendor/
+/project/bin/
+composer.phar
+.vagrant/*
+/build/
+*.sublime-project
+*.sublime-workspace
+npm-debug.log
