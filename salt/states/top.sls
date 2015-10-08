@@ -1,4 +1,9 @@
 'base':
-  '*':
-    - percona
-    - percona.cluster
+#    'haproxy':
+#        - haproxy
+#    'percona*':
+#        - percona
+#        - percona.cluster
+    'db*':
+        - mariadb
+        - mariadb.server

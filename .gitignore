@@ -14,3 +14,4 @@ composer.phar
 *.sublime-project
 *.sublime-workspace
 npm-debug.log
+/nbproject/private/
